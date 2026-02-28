@@ -1,0 +1,7 @@
+{
+  "config.backtankisjetpack.title": "BacktankIsJetpack 配置",
+  "config.backtankisjetpack.gasConsumption": "每 tick 气体消耗量",
+  "config.backtankisjetpack.gasConsumptionHint": "取值范围：0.0 - 1000.0",
+  "config.backtankisjetpack.immuneToFallDamage": "免疫掉落伤害",
+  "config.backtankisjetpack.jetpackHeatsWhenActive": "喷气时发热（可与意志坚定等联动）"
+}

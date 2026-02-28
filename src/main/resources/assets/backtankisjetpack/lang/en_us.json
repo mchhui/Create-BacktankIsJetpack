@@ -1,0 +1,7 @@
+{
+  "config.backtankisjetpack.title": "BacktankIsJetpack Config",
+  "config.backtankisjetpack.gasConsumption": "Gas consumption per tick",
+  "config.backtankisjetpack.gasConsumptionHint": "Range: 0.0 - 1000.0",
+  "config.backtankisjetpack.immuneToFallDamage": "Immune to fall damage",
+  "config.backtankisjetpack.jetpackHeatsWhenActive": "Jetpack heats when active (e.g. Tough As Nails)"
+}

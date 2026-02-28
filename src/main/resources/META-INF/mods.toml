@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="backtankisjetpack"
+version="1.0.0"
+displayName="BacktankIsJetpack"
+description='''Server-only mod: Backtank Is Jetpack.'''
+displayTest="IGNORE_SERVER_VERSION"
+
+[[dependencies.backtankisjetpack]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.backtankisjetpack]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
