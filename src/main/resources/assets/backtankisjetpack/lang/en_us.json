@@ -1,0 +1,13 @@
+{
+  "itemGroup.backtankisjetpack": "Example Mod Tab",
+  "block.backtankisjetpack.example_block": "Example Block",
+  "item.backtankisjetpack.example_item": "Example Item",
+
+  "backtankisjetpack.configuration.title": "BacktankIsJetpack Configs",
+  "backtankisjetpack.configuration.section.backtankisjetpack.common.toml": "BacktankIsJetpack Configs",
+  "backtankisjetpack.configuration.section.backtankisjetpack.common.toml.title": "BacktankIsJetpack Configs",
+  "backtankisjetpack.configuration.items": "Item List",
+  "backtankisjetpack.configuration.logDirtBlock": "Log Dirt Block",
+  "backtankisjetpack.configuration.magicNumberIntroduction": "Magic Number Text",
+  "backtankisjetpack.configuration.magicNumber": "Magic Number"
+}
